@@ -15,5 +15,8 @@ I've Reviewd IEEE's Paper to Korean, If you are korean Click and See this file
 **File**|**Description**
 ---|---
 Deep_Conv_Network_For_Surviving_Anal_With_Pathological_Images_리뷰(이승우).pdf|Korean Reviewed Paper
-nslt.py|NSLT Data Initalizer (NSLT 데이터 전처리기)
-nslt_tf.py|NSLT Data TTE(Train, Test, Evaluate) File, with TensorFlow, must be use GPU(NVIDIA) - 앞서 전처리한 데이터를 가지고 학습하고 테스트하고 점검하는 파이썬 파일, 텐서플로우를 설치하여야 하고 엔비디아 GPU 사용을 반-강제적으로 권장하고 있음.
+
+# Deprecated Notification.
+
+> # There are **NO PUBLIC DATA** ALTERNATIVE ON THIS PROJECT
+> # 이 프로젝트에 적합한 퍼블릭 패솔로지 데이터를 찾을 수 없습니다. 
