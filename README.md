@@ -1,22 +1,22 @@
-## DeepConvSurv_TF
-
-ÀÌ ÇÁ·ÎÁ§Æ®´Â [IEEE ³í¹®](http://ieeexplore.ieee.org/document/7822579/?reload=true&part=1)ÀÇ ÄÁºí·çÀü ³×Æ®¿öÅ©¸¦ »ç¿ëÇÏ¿© NLST µ¥ÀÌÅÍ¼Â¿¡¼­ ÀÌ¹ÌÁö¸¦ ÃßÃâÇÏ¿© »ýÁ¸ºÐ¼®À» ÅÙ¼­ÇÃ·Î¿ì·Î ÇØº¸´Â ÇÁ·ÎÁ§Æ®ÀÔ´Ï´Ù.
+## DeepConvSurv í•œêµ­ì–´ ë¦¬ë·°
+ 
+ì´ í”„ë¡œì íŠ¸ëŠ” [IEEE ë…¼ë¬¸](http://ieeexplore.ieee.org/document/7822579/?reload=true&part=1)ì˜ ì»¨ë¸”ë£¨ì „ ë„¤íŠ¸ì›Œí¬ë¥¼ ì‚¬ìš©í•˜ì—¬ NLST ë°ì´í„°ì…‹ì—ì„œ ì´ë¯¸ì§€ë¥¼ ì¶”ì¶œí•˜ì—¬ ìƒì¡´ë¶„ì„ì„ í…ì„œí”Œë¡œìš°ë¡œ í•´ë³´ëŠ” í”„ë¡œì íŠ¸ìž…ë‹ˆë‹¤.
 
 This Project is Implement [IEEE's Paper](http://ieeexplore.ieee.org/document/7822579/?reload=true&part=1) DeepConvSurv Model Using TensorFlow
 
-ÇÑ±¹¾î·Î ¸®ºäÇÑ ³í¹®Àº ÀÌ ·¹ÆÄÁöÅä¸®¿¡ ¿Ã·Á µÎ¾ú½À´Ï´Ù
+í•œêµ­ì–´ë¡œ ë¦¬ë·°í•œ ë…¼ë¬¸ì€ ì´ ë ˆíŒŒì§€í† ë¦¬ì— ì˜¬ë ¤ ë‘ì—ˆìŠµë‹ˆë‹¤
 
 I've Reviewd IEEE's Paper to Korean, If you are korean Click and See this file
 
--  [Deep_Conv_Network_For_Surviving_Anal_With_Pathological_Images_¸®ºä(ÀÌ½Â¿ì).pdf](https://github.com/jaeseung172/DeepConvSurv_TF/blob/master/GomSoup/Deep_Conv_Network_For_Surviving_Anal_With_Pathological_Images_%EB%A6%AC%EB%B7%B0(%EC%9D%B4%EC%8A%B9%EC%9A%B0).pdf)
+-  [Deep_Conv_Network_For_Surviving_Anal_With_Pathological_Images_ë¦¬ë·°(ì´ìŠ¹ìš°).pdf](https://github.com/jaeseung172/DeepConvSurv_TF/blob/master/GomSoup/Deep_Conv_Network_For_Surviving_Anal_With_Pathological_Images_%EB%A6%AC%EB%B7%B0(%EC%9D%B4%EC%8A%B9%EC%9A%B0).pdf)
 
 ### File Information
 
 **File**|**Description**
 ---|---
-Deep_Conv_Network_For_Surviving_Anal_With_Pathological_Images_¸®ºä(ÀÌ½Â¿ì).pdf|Korean Reviewed Paper
+Deep_Conv_Network_For_Surviving_Anal_With_Pathological_Images_ë¦¬ë·°(ì´ìŠ¹ìš°).pdf|Korean Reviewed Paper
 
 # Deprecated Notification.
 
 > # There are **NO PUBLIC DATA** ALTERNATIVE ON THIS PROJECT
-> # ÀÌ ÇÁ·ÎÁ§Æ®¿¡ ÀûÇÕÇÑ ÆÛºí¸¯ ÆÐ¼Ö·ÎÁö µ¥ÀÌÅÍ¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. 
+> # ì´ í”„ë¡œì íŠ¸ì— ì í•©í•œ í¼ë¸”ë¦­ íŒ¨ì†”ë¡œì§€ ë°ì´í„°ë¥¼ ì°¾ì„ ìˆ˜ ì—†ìŠµë‹ˆë‹¤. 
